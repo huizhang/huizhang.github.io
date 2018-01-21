@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://huizhang.github.io/post/new/</loc>
-    <lastmod>2018-01-21T16:02:00+08:00</lastmod>
+    <loc>https://huizhang.github.io/posts/first/</loc>
+    <lastmod>2018-01-21T16:34:07+08:00</lastmod>
   </url>
   
   <url>
@@ -19,7 +19,8 @@
   
   <url>
     <loc>https://huizhang.github.io/</loc>
-    <lastmod>2018-01-21T16:02:00+08:00</lastmod>
+    <lastmod>2018-01-21T16:34:07+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,20 +35,20 @@
   </url>
   
   <url>
-    <loc>https://huizhang.github.io/post/</loc>
-    <lastmod>2018-01-21T16:02:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://huizhang.github.io/posts/</loc>
-    <lastmod>2018-01-20T23:54:08+08:00</lastmod>
+    <lastmod>2018-01-21T16:34:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://huizhang.github.io/tags/</loc>
     <lastmod>2018-01-20T20:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://huizhang.github.io/tags/web/</loc>
+    <lastmod>2018-01-21T16:34:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
